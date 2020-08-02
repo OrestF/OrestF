@@ -1,6 +1,6 @@
 ### Hi, I'm Orest 👨‍💻
  
-<img align="right" src="https://github.com/OrestF/OrestF/blob/master/ruby_512.png" width=300px height=300px/>
+<img align="right" src="https://github.com/OrestF/OrestF/blob/master/ruby_icon.png" width=300px height=300px/>
 
 Ruby developer. Head of ruby department at [COAX](https://coaxsoft.com)
 
