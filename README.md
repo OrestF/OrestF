@@ -8,8 +8,8 @@ Ruby developer. Head of ruby department at [COAX](https://coaxsoft.com)
 * 💻  Open source projects:
 [Passpartu](https://rubygems.org/gems/passpartu),
 [RCreds](https://rubygems.org/gems/r_creds),
-[Xlog](https://rubygems.org/gems/xlog)
+[Xlog](https://rubygems.org/gems/xlog),
 [flexjs](https://flexjs.herokuapp.com)
-* 💬  Ask me about Ruby, Rails and everything in betweeng
-* 🤔  Thoughts aloud [ABDI](abdi/ABDI_architecture.md)
+* 💬  Ask me about Ruby, Rails and everything in between
+* 🤔  Thoughts aloud [ABDI](https://github.com/OrestF/OrestF/blob/master/abdi/ABDI_architecture.md)
 * 📫  How to reach me falchuko@gmail.com
