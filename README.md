@@ -13,3 +13,5 @@ Ruby developer. Head of ruby department at [COAX](https://coaxsoft.com)
 * 💬  Ask me about Ruby, Rails and everything in between
 * 🤔  Thoughts aloud [ABDI](https://github.com/OrestF/OrestF/blob/master/abdi/ABDI_architecture.md)
 * 📫  How to reach me falchuko@gmail.com
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OrestF&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
