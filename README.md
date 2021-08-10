@@ -4,7 +4,7 @@
 
 Ruby developer. Head of ruby department at [COAX](https://coaxsoft.com)
 
-* 🔭  Currently work on [Estimator](https://github.com/OrestF/estimator_v2)
+* 🔭  Latest pet-ptoject [Estimator](https://github.com/OrestF/estimator_v2)
 * 💻  Open source projects:
 [Passpartu](https://rubygems.org/gems/passpartu),
 [RCreds](https://rubygems.org/gems/r_creds),
