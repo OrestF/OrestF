@@ -2,9 +2,9 @@
  
 <img align="right" src="https://github.com/OrestF/OrestF/blob/master/ruby_icon.png" width=200px height=200px/>
 
-Ruby developer. Head of ruby department at [COAX](https://coaxsoft.com)
+Ruby developer. Head of engineering at [COAX](https://coaxsoft.com)
 
-* 🔭  Latest pet-ptoject [Estimator](https://github.com/OrestF/estimator_v2)
+* 🔭  Latest pet-ptoject [Observer](https://github.com/OrestF/observer)
 * 💻  Open source projects:
 [Passpartu](https://rubygems.org/gems/passpartu),
 [RCreds](https://rubygems.org/gems/r_creds),
