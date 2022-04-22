@@ -6,10 +6,11 @@ Ruby developer. Head of engineering at [COAX](https://coaxsoft.com)
 
 * 🔭  Latest pet-ptoject [Observer](https://github.com/OrestF/observer)
 * 💻  Open source projects:
-[Passpartu](https://rubygems.org/gems/passpartu),
-[RCreds](https://rubygems.org/gems/r_creds),
-[Xlog](https://rubygems.org/gems/xlog),
-[flexjs](https://flexjs.herokuapp.com)
+  * [readymade](https://rubygems.org/gems/readymade)
+  * [passpartu](https://rubygems.org/gems/passpartu)
+  * [RCreds](https://rubygems.org/gems/r_creds)
+  * [Xlog](https://rubygems.org/gems/xlog)
+  * [flexjs](https://flexjs.herokuapp.com)
 * 💬  Ask me about Ruby, Rails and everything in between
 * 🤔  Thoughts aloud [ABDI](https://github.com/OrestF/OrestF/blob/master/abdi/ABDI_architecture.md)
 * 📫  How to reach me falchuko@gmail.com
